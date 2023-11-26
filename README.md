@@ -34,4 +34,4 @@ Mengklasifikasikan gambar yang diinput, batu gunting atau kertas
 
 # Saved Model (.h5)
 
-batu_gunting_kertas.h5
+[batu_gunting_kertas.h5](https://github.com/AditRizkii/Tugas-2-Kecerdasan-Artifisial-2108107010002/raw/main/batu_gunting_kertas.h5?download=)
